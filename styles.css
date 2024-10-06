@@ -1,0 +1,91 @@
+x'
+
+body{
+    height: 100vh;
+    background-image: url(Fundo.png);
+    background-size: 2000px 1000px;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
+}
+
+*{
+    margin: 0;
+    padding:0;  
+    box-sizing: border-box;
+    font-family: 'Poppiins', sans-serif;
+}
+
+header{
+    padding: 47px;
+    padding: 42px;  
+    
+}
+
+.link-menu{
+    font-weight: 47px;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #6fbf44;
+    margin-right: 32px;
+    cursor: pointer;
+
+}
+
+.button-sign-up{
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff  
+}
+
+img {
+    margin: 163px 0 0 123px;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    margin-left: 85px;
+    width: 493px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 70px;
+    letter-spacing: 0.596154px;
+    color: #37a504;
+    
+}
+
+p {
+    font-weight: 400;   
+    font-size: 25px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #0c035f;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.button-learn-more {
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff  
+}
+
