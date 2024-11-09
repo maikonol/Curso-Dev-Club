@@ -1,8 +1,8 @@
-x'
+*
 
 body{
     height: 100vh;
-    background-image: url(Fundo.png);
+    background-image: url(\Fundo.png);
     background-size: 2000px 1000px;
     background-repeat: no-repeat;
     backdrop-filter: blur(5px);
